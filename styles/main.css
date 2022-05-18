@@ -1,11 +1,11 @@
 p {
-  font-family: 'Barlow', sans-serif;
+  font-family:'Comfortaa', cursive;
 }
 
 html, body {
     max-width: 100%;
     overflow-x: hidden;
-    background: url("../images/background.jpg") fixed no-repeat;
+    background: url("https://wallpapercave.com/wp/wp8817606.jpg") fixed no-repeat;
     background-size: 100%;
     background-color: black;
 }
@@ -22,7 +22,7 @@ blockquote{
     padding: 20px;
 }
 .navbar.navbar-expand-lg.navbar-light.bg-light.fixed-top{
-    background: white !important;
+    background: #fbf8ee !important;
 }
 .navbar-brand{
     display: flex;
@@ -37,9 +37,9 @@ blockquote{
 }
 
 #jumbheader{
-    box-shadow: 2px 2px 2px rgb(167, 166, 166);
-    background-color: #238193!important;
-    color: lightgray;
+    box-shadow: 2px 2px 2px #FFF9D4;
+    background-color: #E9BC1B!important;
+    color: #FFF9D4;
 
 }
 .header-text{
@@ -47,7 +47,7 @@ blockquote{
     padding-top: 10px;
     font-weight: bold;
     height: 50px;
-    color: white;
+    color: #fbf8ee;
 
 }
 
@@ -89,12 +89,12 @@ main {
 }
 
 .col-md-3.cohortMems{
-    border: 1px solid lightgray;
+    border: 1px solid #FFF9D4;
     border-radius:10px;
-    box-shadow: 2px 2px 2px lightgray;
+    box-shadow: 2px 2px 2px #FFF9D4;
     margin: 10px;
     margin-bottom: 25px;
-    background: white;
+    background: #fbf8ee;
 }
 
 .col-sm-2.technologies{
@@ -105,7 +105,7 @@ main {
 
 .technos, .words{
     margin-top: -55px;
-    background: white;
+    background: #fbf8ee;
     padding:20px;
     border-radius: 20px;
 }
@@ -148,7 +148,7 @@ main {
   }
 
   .contactIcons{
-      color: #238193;
+      color: #272D67;
   }
   .contactIcons:hover{
       transform: scale(1.2);
@@ -156,7 +156,7 @@ main {
 
   .modal-header{
     background-color: lightgray!important;
-    color: #238193;
+    color: #272D67;
   }
 
   .modal-body img{
@@ -173,8 +173,8 @@ main {
 .navbar.navbar-light.bg-light.footer{
     margin-top:10px;
     font-size: 1em;
-    background-color: #238193!important;
-    color: white;
+    background-color: #272D67!important;
+    color: #fbf8ee;
 }
 
 #demo-date {
@@ -182,20 +182,20 @@ main {
 }
 
 #demo-date a {
-    color: #238193!important;
+    color: #272D67!important;
 }
 
 button{
     cursor: pointer;
 }
 .btn-outline-primary{
-    color: #238193!important;
-    border-color: #238193!important;
+    color: #272D67!important;
+    border-color: #272D67!important;
 }
 
 .btn-outline-primary:hover{
-    color: white!important;
-    background-color: #238193!important;
+    color: #fbf8ee!important;
+    background-color: #272D67!important;
 }
 
 /* adjusts size of contact icons depending on size of card */
@@ -218,7 +218,7 @@ button{
         background: url("../assets/images/bg.jpg") repeat;
     } */
     .jumbotron.jumbotron-fluid img{
-        background: white;
+        background: ("https://img.freepik.com/free-vector/gold-disco-lights-background-golden-shiny-mosaic-disco-ball-style_145391-436.jpg?w=1060")!important;
         margin-top:30px;
        }
        .jumbotron.jumbotron-fluid.sm-width{
