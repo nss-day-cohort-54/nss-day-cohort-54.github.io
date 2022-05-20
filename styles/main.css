@@ -6,9 +6,9 @@ html,
 body {
     max-width: 100%;
     overflow-x: hidden;
-    background: url("https://wallpapercave.com/wp/wp8817606.jpg") no-repeat;
+    /* background: url("https://wallpapercave.com/wp/wp8817606.jpg") repeat; */
     background-size: 100%;
-    background-color: black;
+    background-color: #d4af37;
 }
 
 blockquote {
@@ -77,7 +77,8 @@ p.card-text {
 .jumbotron.jumbotron-fluid img {
     background: none;
     width: 100%;
-    margin-top: -80px;
+    margin-top: 150px;
+    margin-top: 75px;
 }
 
 main {
@@ -222,7 +223,7 @@ button {
 
     .jumbotron.jumbotron-fluid img {
         background: ("https://img.freepik.com/free-vector/gold-disco-lights-background-golden-shiny-mosaic-disco-ball-style_145391-436.jpg?w=1060") !important;
-        margin-top: 10%;
+        margin-top: 75px;
     }
 
     .jumbotron.jumbotron-fluid.sm-width {
@@ -237,7 +238,7 @@ button {
 
     .jumbotron.jumbotron-fluid img {
         background: ("https://img.freepik.com/free-vector/gold-disco-lights-background-golden-shiny-mosaic-disco-ball-style_145391-436.jpg?w=1060") !important;
-        margin-top: 25%;
+        margin-top: 75px;
     }
 
     .jumbotron.jumbotron-fluid.sm-width {
@@ -253,7 +254,7 @@ button {
     } */
     .jumbotron.jumbotron-fluid img {
         background: ("https://img.freepik.com/free-vector/gold-disco-lights-background-golden-shiny-mosaic-disco-ball-style_145391-436.jpg?w=1060") !important;
-        margin-top: 10%;
+        margin-top: 75px;
     }
 
     .jumbotron.jumbotron-fluid.sm-width {
