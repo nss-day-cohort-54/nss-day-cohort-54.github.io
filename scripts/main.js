@@ -11,6 +11,9 @@ $.ajax({
     console.log("error", error);
   });
 
+
+
+
 function cohortMembers(list) {
   let data = list.cohort;
   data.forEach(function (item) {
@@ -76,10 +79,13 @@ function cohortMembers(list) {
               </button>
             </div>
             <div class="modal-body">
-            <center><img src="images/classmates/${item.funImg}" alt="${item.firstName} ${item.lastName} fun"/></center><br>
-
+            <center><img src="images/classmates/${item.funImg}" alt="${item.firstName} ${item.lastName} fun"/></center><br></br>
+            
             `
+ 
 
+      
+         
     studentInfo += studentContact
 
 
