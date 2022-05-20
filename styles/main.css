@@ -8,7 +8,7 @@ body {
     overflow-x: hidden;
     /* background: url("https://wallpapercave.com/wp/wp8817606.jpg") repeat; */
     background-size: 100%;
-    background-color: #d4af37;
+    background-color: black;
 }
 
 blockquote {
@@ -186,6 +186,10 @@ main {
     margin-bottom: 1.5rem;
 }
 
+.text-center {
+    color: white;
+}
+
 .navbar.navbar-light.bg-light.footer {
     margin-top: 10px;
     font-size: 1em;
@@ -198,7 +202,7 @@ main {
 }
 
 #demo-date a {
-    color: #272D67 !important;
+    color: #E9BC1B !important;
 }
 
 button {
